@@ -25,6 +25,15 @@
 ## 3. 项目列表
 ### 2026 年 7 月 18 号添加
 
+#### wnma3mz - [Github](https://github.com/wnma3mz)
+* :white_check_mark: [余薪 Yuxin](https://wnma3mz.github.io/yuxin/)：实时计算今日入账、下班和节假日倒计时，无需账号，离线运行且数据只存本地
+
+#### 猫弟(上海) - [Github](https://github.com/maundytime)
+* :white_check_mark: [Await (iOS)](https://apps.apple.com/cn/app/id6755678187)：小组件工坊，可以 DIY 任何小组件 - [更多介绍](https://awaitwidget.com)
+
+#### Mr.Baoboer(北京) - [Github](https://github.com/MrBaoboer/)
+* :white_check_mark: [薪跳 PayDance](https://paydance.vercel.app/)：“实时工资”小软件，轻量优雅，根据用户的薪资和上下班时间动态计算每一秒的收入增长，让劳动时间价值变得可视化 - [更多介绍](https://github.com/MrBaoboer/PayDance)
+
 #### MattCraftsCode - [Github](https://github.com/MattCraftsCode)
 * :white_check_mark: [Fullmira](https://fullmira.com/)：一站式 AI 创作平台，整合 GPT、Claude、Gemini 等多个模型，同一界面完成文本、图像、视频和音频生成，内置 100+ 专用工具覆盖写作、图像编辑与视频制作
 
@@ -142,9 +151,6 @@
 
 #### mnbqwe10(Singapore) - [Github](https://github.com/mnbqwe10)
 * :white_check_mark: [AI Buddy](https://chromewebstore.google.com/detail/eigpaeoigklelmfgnkljhbjjbpohenpn)：Chrome 侧边栏 AI 助手，选中文本或截图直接提问，自定义快捷键和提示词，支持 ChatGPT / Claude / Telegram 等 10 个平台，完全免费开源 - [查看仓库](https://github.com/mnbqwe10/ai_buddy)
-
-#### Mr.Baoboer(北京) - [Github](https://github.com/MasterBao66)
-* :white_check_mark: [薪跳 PayDance](https://paydance.vercel.app/)：“实时工资”小软件，轻量优雅，可基于用户的薪资和上下班时间动态计算每一秒的收入增长，让劳动时间价值变得可视化 - [更多介绍](https://github.com/MasterBao66/PayDance)
 
 #### NiYongsheng - [Github](https://github.com/niyongsheng)
 * :white_check_mark: [Moler](https://github.com/niyongsheng/moler)：Mac 磁盘清理工具，NASA-Punk 风格，支持重复文件扫描、大文件检测、应用卸载和磁盘概览 - [更多介绍](https://niyongsheng.github.io/moler/)
