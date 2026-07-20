@@ -25,6 +25,9 @@
 ## 3. 项目列表
 ### 2026 年 7 月 19 号添加
 
+#### xiaoshangmin(深圳) - [Github](https://github.com/xiaoshangmin)
+* :white_check_mark: [Next BConvert](https://nextbconvert.com/zh)：70+ 免费工具，支持图片、视频、音频、PDF 和文本处理，浏览器本地运行，无需上传、无需账号、无限制
+
 #### Mr.Baoboer(北京) - [Github](https://github.com/MrBaoboer/)
 * :white_check_mark: [氛寸 Fēn Cùn](https://github.com/MrBaoboer/FenCun)：轻量优雅的「香水决策」小程序，根据实时天气和出席场合，告诉你今天最适合喷哪瓶香水，以及怎样用得恰到好处 - [更多介绍](https://github.com/MrBaoboer/FenCun)
 
