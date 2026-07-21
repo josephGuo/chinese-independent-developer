@@ -25,6 +25,27 @@
 ## 3. 项目列表
 ### 2026 年 7 月 21 号添加
 
+#### 小明 - [Github](https://github.com/xiaomingio)
+* :white_check_mark: [Vibe Coding Atlas](https://vibecoding.aicake.io)：**中国独立开发者项目列表 网页版**，每日刷新 [1c7/chinese-independent-developer](https://github.com/1c7/chinese-independent-developer) 的 Markdown 清单生成可搜索筛选的静态目录，并补充公开 GitHub Stars - [GitHub 仓库](https://github.com/xiaomingio/vibe-coding-atlas)
+
+#### Mil0R(北京) - [Github](https://github.com/Mil0R)
+* :white_check_mark: [FocusLens-屏幕截图聚焦编辑器](https://getfocuslens.com/)：将你的图片局部放置放大镜进行放大显示，聚焦以引起注意
+
+#### fatwang2 - [Github](https://github.com/fatwang2)
+* :white_check_mark: [Pulse](https://www.pulseticker.app/)：macOS 原生菜单栏行情工具，一眼查看美股、港股、A 股、加密货币、指数和 ETF，支持自选与持仓盈亏，免费开源 - [查看仓库](https://github.com/fatwang2/Pulse)
+
+#### Phaeris - [Github](https://github.com/PhaerisWakfu/OneTokenIsEnough)
+* :white_check_mark: [一叶知秋](https://onetoken.phaeris.xyz)：根据[最新论文](https://arxiv.org/abs/2607.10252)开发的中转 API 检测工具，担心中转站偷偷换成更便宜的模型？填上对方地址，我们只问它几次「随便说一个数」这类极短问题—— 每次回答大约只花 1 个输出 token，再对照已知真模型的回答习惯，判断像不像。 你的 API Key 只用于当场检测，我们不会记录、不会保存
+
+#### MarthaHuang(北京) - [Github](https://github.com/Amybiubiu)
+* :white_check_mark: [芦苇-发现好内容](https://apps.apple.com/cn/app/%E8%8A%A6%E8%8B%87-%E5%8F%91%E7%8E%B0%E5%A5%BD%E5%86%85%E5%AE%B9/id6756805406)：探索优质信息源，连接 RSS 订阅与内容发现 - [更多介绍](https://reeddaily.com/)
+
+#### 毛小蒙(杭州) - [Github](https://github.com/maoxiaomeng2021)
+* :white_check_mark: [diffMaster](https://diff.boyeye.com)：支持多格式的文档比对
+
+#### jaychouchannel - [Github](https://github.com/jaychouchannel)
+* :white_check_mark: [PlotCraft](https://github.com/jaychouchannel/PlotCraft)：科研人专用，用自然语言描述图表，AI 自动生成 Nature/Cell 级科研论文矢量图（SVG），支持 8 种图表模板，本地沙箱渲染
+
 #### aqua5230 - [Github](https://github.com/aqua5230)
 * :white_check_mark: [usage](https://github.com/aqua5230/usage)：把 Claude Code / Codex 的剩余额度和烧钱速度实时显示在菜单栏，全程不占用官方额度
 
