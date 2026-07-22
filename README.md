@@ -25,8 +25,27 @@
 ## 3. 项目列表
 ### 2026 年 7 月 21 号添加
 
+#### cobola - [Github](https://github.com/cobola)
+* :white_check_mark: [RailNet Tester](https://play.google.com/store/apps/details?id=com.xg.railnettester)：高铁移动网络质量记录仪，高速移动环境下进行 TCP 测试 + GPS 同步连续采集并形成图表
+* :white_check_mark: [0trace](https://0trace.org)：纯 P2P 浏览器端对端聊天与文件传输，无服务器中转、无需注册、打开即用 - [GitHub](https://github.com/momo2029/0trace)
+
+#### weidacn - [Github](https://github.com/weidacn)
+* :white_check_mark: [Voor AI](https://voor.ai)：浏览器端 AI 创作平台，支持视频、图片和音频生成、编辑与工作流协作，统一管理共享积分
+* :white_check_mark: [Krea 2 AI](https://krea2.org)：专注 Krea 2 的 AI 图片工作台，支持多种生成规格、风格探索与快速迭代
+* :white_check_mark: [Seedance 2.5 AI](https://seedance2-5ai.im)：Seedance 2.5 AI 视频工作台，支持文字生视频、图片生视频和参考图生视频
+* :white_check_mark: [Seedream 5.0 Pro](https://seedream5-pro.im)：多模型 AI 图片工作台，支持文字生图、图片生图、复杂布局与多语言文字编辑
+
+#### DevEloLin - [Github](https://github.com/DevEloLin)
+* :white_check_mark: [EloLin](https://elolin.com)：一个人做的产品工作室主页，一处浏览我做的全部产品，并用同一个账号登录所有产品
+* :white_check_mark: [PhotoAI](https://photoai.elolin.com)：上传一张自拍，选个风格一键生成证件照、头像、宠物照或角色立绘，全程不用写提示词，照片当天自动删除
+* :white_check_mark: [EloLin Domains](https://domains.elolin.com)：免费领一个属于自己的子域名，并自助管理它的 DNS 解析，几秒生效
+* :white_check_mark: [Zivoe](https://zivoe.elolin.com)：面向工业设计的桌面工具，用一张参考图把模糊想法变成产品概念主图和三视图，启发灵感、也方便和工厂沟通
+
+#### alice51849 - [Github](https://github.com/alice51849)
+* :white_check_mark: [Lumi & Friends iOS App Finder](https://alice51849.github.io/ios-app-guide/zh-Hans/tools/private-pay-once-iphone-app-finder.html)：按用途、隐私和付费方式查找 28 款已上架 iPhone/iPad App，覆盖学习、效率、照片、旅行与健康，逐款直达 App Store；支持 Apple 官方 50 个本地化区域
+
 #### 小明 - [Github](https://github.com/xiaomingio)
-* :white_check_mark: [Vibe Coding Atlas](https://vibecoding.aicake.io)：**中国独立开发者项目列表 网页版**，每日刷新 [1c7/chinese-independent-developer](https://github.com/1c7/chinese-independent-developer) 的 Markdown 清单生成可搜索筛选的静态目录，并补充公开 GitHub Stars - [GitHub 仓库](https://github.com/xiaomingio/vibe-coding-atlas)
+* :white_check_mark: [Vibe Coding Atlas](https://vibecoding.aicake.io)：中国独立开发者项目列表网页版，每日刷新 Markdown 清单生成可搜索筛选的静态目录，并补充公开 GitHub Stars - [GitHub 仓库](https://github.com/xiaomingio/vibe-coding-atlas)
 
 #### Mil0R(北京) - [Github](https://github.com/Mil0R)
 * :white_check_mark: [FocusLens-屏幕截图聚焦编辑器](https://getfocuslens.com/)：将你的图片局部放置放大镜进行放大显示，聚焦以引起注意
