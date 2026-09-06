@@ -23,7 +23,15 @@
 | :clock8: | :white_check_mark: | :x: |
 
 ## 3. 项目列表
+### 2026 年 9 月 6 号添加
+
+#### codeugar - [Github](https://github.com/codeugar)
+* :white_check_mark: [Seadanse](https://seadanse.com)：多模型 AI 视频生成平台，支持通过 Composer 工作台生成带声多镜头视频，并提供一句话自动拆解广告分镜与故事板的 AI Video Agent 功能 - [更多介绍](https://seadanse.com/ai-video-agent)
+
 ### 2026 年 9 月 5 号添加
+
+#### zibo-chen - [Github](https://github.com/zibo-chen)
+* :white_check_mark: [SubnetDesk](https://github.com/zibo-chen/SubnetDesk)：跨平台远程桌面应用，在局域网或 VPN 内通过 mDNS 自动发现设备并用 IP 或主机名直连，无需公网设备 ID、信令或中继；支持 Windows、macOS、Linux 和 Android，AGPL-3.0 开源
 
 #### 863683348 - [Github](https://github.com/863683348)
 * :white_check_mark: [DTCwise](https://dtcwise.com/?utm_source=cnindie&utm_medium=github)：DTC/跨境电商独立站卖家的运营工具目录与评测站，数据驱动收录 104 个工具（Sellvia、Mangools、Spocket 等），含对比评分与佣金返利链接，免费无需注册
