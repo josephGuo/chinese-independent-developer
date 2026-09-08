@@ -24,6 +24,24 @@
 | :clock8: | :white_check_mark: | :x: |
 
 ## 3. 项目列表
+### 2026 年 9 月 8 号添加
+
+#### zjzno1 - [Github](https://github.com/zjzno1)
+* :white_check_mark: [热摸爽](https://remoshuang.com/)：面向普通用户的全网热搜热榜聚合网站，一站查看微博、知乎、抖音、GitHub Trending 等 200+ 公开来源，支持科技、AI、财经等分类、跨平台事件合并和按日期回看历史热点 — 无需注册，打开即用
+
+#### 肖戈(深圳) - [Github](https://github.com/jvxiao)
+* :white_check_mark: [Erase Background Pro](https://erasebgpro.com)：无需注册、免费即用的 AI 一键抠图工具，秒级输出边缘干净的透明 PNG，支持电商人像/发丝细节与 4K 高清，提供批量处理、免费试用与开发者 API
+* :white_check_mark: [薯小二](https://xhs.jvxiao.cn/)：小红书合规运营工具箱，违禁词一键检测+替换建议、AI 爆款标题生成、笔记收录限流自查，纯网页端免安装，新人每天免费发车
+
+#### rain(深圳) - [Github](https://github.com/wang1309)
+* :white_check_mark: [LoveComic](https://lovecomic.app/)：AI 漫画生成网站，支持自动与人工控制双重模式，自定义对话气泡、字体等；还有 flow 画布模式，可自由编排节点生成漫画
+
+#### 南宫文凯 - [博客](https://blog.csdn.net/qq_34730277)
+* :white_check_mark: [NotePP](https://luminousstars.org/)：macOS 平台的 Notepad++ 替代方案，在 Mac 上也能流畅使用 Notepad++ 的编辑体验
+
+#### fengmao - [Github](https://github.com/fengmao)
+* :white_check_mark: [Real Job Work From Home](https://realjobworkfromhome.com/)：远程岗位检索网站，无需注册即可免费浏览，支持关键词、岗位类别、雇佣类型及已披露薪资筛选，并提供雇主申请入口
+
 ### 2026 年 9 月 7 号添加
 
 #### aiScribeFlash（北京） - [Github](https://github.com/overseax)
@@ -302,6 +320,7 @@
 ### 2026 年 8 月 13 号添加
 
 #### TREAFREE - [Github](https://github.com/TREAFREE)
+* :white_check_mark: [Metrune](https://treafree.github.io/Metrune/)：原生 macOS 专注与开发活动工具，把任务计时、Codex 状态、GitHub 活动和周报收进 Mac 顶部界面，核心记录保存在本地 - [项目与下载](https://github.com/TREAFREE/Metrune)
 * :white_check_mark: [File Island](https://treafree.top/FileIsland/)：原生 macOS 本地媒体转换工具，驻留在 MacBook 刘海区域，支持图片、视频、音频与混合文件夹批量转换，结果可直接拖入访达或聊天应用，文件不上传云端 - [项目与下载](https://github.com/TREAFREE/FileIsland)
 
 #### JeremyGDM - [Github](https://github.com/JeremyGDM)
@@ -6609,6 +6628,7 @@
 * [Opps Daily - 这家的 newsletter 做得好，推荐订阅](https://www.oppslist.com/)
 * [Master of Scale](https://mastersofscale.com)
 * [NomadList](https://nomadlist.com/) - 远程工作时可以用 NomadList 挑选去哪个城市
+* [Profitable Founder Podcast](https://www.profitablefounder.xyz/) - 每周采访年收入 $100K-$10M 的自举（bootstrapped）独立开发者/创始人，分享他们的增长打法
 
 ### 中文
 * [Sideidea](http://sideidea.com/) - 分享独立开发者的盈利故事
