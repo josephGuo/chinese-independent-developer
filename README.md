@@ -25,6 +25,9 @@
 ## 3. 项目列表
 ### 2026 年 9 月 11 号添加
 
+#### LongAotian - [Github](https://github.com/chenchuxin)
+* :white_check_mark: [VoiceCloner](https://voicecloner.org/)：使用自己的声音，将文字转成语音；每天免费额度，不注册也可使用
+
 #### C2Anime Team - [Github](https://github.com/codaaiteam)
 * :white_check_mark: [C2Anime](https://c2anime.com/)：AI 动画创作助手（AI Anime Agent），把故事和小说片段变成有对白、有声音的动画短片，无需动画制作经验
 
@@ -50,7 +53,7 @@
 * :white_check_mark: [AI 智能快照](https://apps.apple.com/cn/app/ai-smart-snapshot/id6796251282?mt=12)：AI 智能快照：截屏、录屏、录音、OCR 识字和标注，一个 App 完成
 
 #### WXzhongwang - [Github](https://github.com/WXzhongwang)
-* :white_check_mark: [OPC 情报站](https://wxzhongwang.github.io/opc-radar/)：一人公司（OPC）资讯聚合站，收录 80 条政策动向、创业案例与生态工具情报，支持 9 大分类筛选、全文搜索与热度排行，纯静态打开即用，无需注册 - [GitHub 仓库](https://github.com/WXzhongwang/opc-radar)
+* :white_check_mark: [OPC 情报站](https://opc-radar.pages.dev/)：一人公司（OPC）资讯聚合站，收录 82 条政策动向、创业案例与生态工具情报，支持 9 大分类筛选、全文搜索与热度排行，纯静态打开即用，无需注册 - [GitHub 仓库](https://github.com/WXzhongwang/opc-radar)
 
 #### 宋永昌(上海) - [Github](https://github.com/yajufurniture-debug)
 * :white_check_mark: [慧报价](https://www.swqifu.com/)：AI 外贸报价工具，产品库一次建好，选品自动按 EXW/FOB/CFR/CIF/DDP 计价（利润率按售价、保险 110% 加成的实务口径），30 秒生成中英双语报价单 PDF，附免费无需注册的报价计算器
