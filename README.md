@@ -26,6 +26,18 @@
 
 ### 2026 年 9 月 22 号添加
 
+#### xiaoyaohou19910610-bit - [Github](https://github.com/xiaoyaohou19910610-bit)
+* :white_check_mark: [精选副业](https://jingxuan-fuye.pages.dev/)：中文副业案例库，把公开的真实项目经历整理成可筛选的案例解读，可按平台、项目和技能查找，并查看成绩口径、适配条件、风险与原文入口
+
+#### Jun(上海) - [Github](https://github.com/2456868764)
+* :white_check_mark: [Jev Guide](https://jev.guide/)：发现 Jev 的真实应用。从官方发布到真实演示，在一个地方探索 TypeSafe Jev。按行业寻找用例，查看 X 原帖截图，并直接在站内播放原视频
+
+#### Albert(美国) - [Github](https://github.com/Albert-Weasker/niubigeo)
+* :white_check_mark: [NiubiGeo](https://niubigeo.ai/)：NiubiGEO 帮助 AI、SaaS、DevTools 和开源项目检测并提升在 ChatGPT、Perplexity、Google AI 等 AI 搜索与问答场景中的品牌可见度 - [更多介绍](https://niubigeo.ai/)
+
+#### jimmy0256 - [Github](https://github.com/jimmy0256)
+* :white_check_mark: [ReelMuse](https://reelmuse.app/ai-dance-generator/)：无需编写提示词，选好舞蹈模板、上传照片即可生成舞蹈视频
+
 #### magicapple123 - [Github](https://github.com/magicapple123)
 * :white_check_mark: [简历通 ResumeForge](https://magicapple123.github.io/ResumeForge-official/)：本地运行的 AI 求职工作台，简历生成、岗位采集、投递追踪、面试复盘全流程，数据只存本机不上传，Windows 一键启动，开源免费 - [查看仓库](https://github.com/magicapple123/ResumeForge)
 
@@ -225,7 +237,7 @@
 ### 2026 年 9 月 8 号添加
 
 #### zjzno1 - [Github](https://github.com/zjzno1)
-* :white_check_mark: [热摸爽](https://remoshuang.com/)：全网热搜热榜聚合网站，一站查看微博、知乎、抖音、GitHub Trending 等 200+ 公开来源，支持科技、AI、财经等分类、跨平台事件合并和按日期回看历史热点 — 无需注册，打开即用
+* :white_check_mark: [热摸爽](https://remoshuang.com/)：中文全网热点聚合网站，把微博、知乎、今日头条、GitHub Trending、科技和财经等公开榜单整理到一处，提供跨平台热点、正在升温、历史热搜和 RSS - [更多介绍](https://github.com/zjzno1/remoshuang)
 
 #### 肖戈(深圳) - [Github](https://github.com/jvxiao)
 * :white_check_mark: [Erase Background Pro](https://erasebgpro.com)：AI 一键抠图工具，秒级输出边缘干净的透明 PNG，支持电商人像/发丝细节与 4K 高清，提供批量处理、免费试用与开发者 API，无需注册、免费即用
@@ -5919,23 +5931,6 @@
 ### 2024年2月18号添加
 #### ThinkStu(北京) - [Github](https://github.com/Bistutu)
 * :white_check_mark: [流畅阅读-浏览器翻译插件](https://github.com/Bistutu/FluentRead)：有人工智能翻译引擎的浏览器插件，支持 OpenAI、Gemini、通义千问、文心一言、智谱清言等模型，可以为网站提供更加友好的翻译，让所有人都能拥有母语般的阅读体验。
-
-### 2024年1月31号添加
-#### Xiao Hanyu - [Github](https://github.com/xiaohanyu), [Twitter](https://twitter.com/xiaohanyu1988)
-* :white_check_mark: [PPResume](https://ppresume.com?utm_source=chinese-independent-developer)：基于 LaTeX 的简历制作 Web App，提供极高质量的简历排版和 PDF 输出
-
-### 2024年1月30号添加
-#### windowye(北京) - [Github](https://github.com/windowye)
-* :x: [CoSS](https://w-coss.space)：聚合主流文件存储服务和文件操作服务
-
-### 2024年1月25号添加
-#### FreeMind-LJ - [Github](https://github.com/FreeMind-LJ)
-* :white_check_mark: [FreeMind](https://freemind.fit)：以大自然的声音为灵感，轻松创建专注或放松的音乐氛围。无需账户，无需麻烦——只有纯粹的宁静。无论是在繁忙的办公室，还是在家中的安静角落，FreeMind 将简约与宁静相结合，为您提供一个没有干扰的空间
-
-
-### 2024年1月22号添加
-#### Lykin(广州) - [Github](https://github.com/tiny-craft/tiny-rdm)
-* :white_check_mark: [Tiny RDM](https://redis.tinycraft.cc/zh/): 美观易用、极致轻量的 Redis 桌面客户端
 
 ## 👉 查看 [2018 年 ~ 2024 年项目列表](./.github/pages/README-Archive.md)（因 GitHub 渲染限制单独存档）
 
