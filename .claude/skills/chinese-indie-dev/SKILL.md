@@ -192,7 +192,8 @@ gh api "repos/1c7/chinese-independent-developer/pulls?state=open&per_page=50" \
        git push "$HEAD_REPO_URL" "pr-<number>:$HEAD_REF"
        gh pr merge <number> --merge
        ```
-       （用 `--merge` 而非 `--squash`，保留贡献者原始 commit 的作者信息）推送后如果因为权限或分支保护等原因失败，视为该路径不可行，降级到步骤 3。合并成功则按下面「合并成功」的致谢评论流程处理，PR 会正常显示为 Merged。
+       （用 `--merge` 而非 `--squash`，保留贡献者原始 commit 的作者信息）
+       ⚠️ 推送后立刻 `gh pr merge` 可能报 `GraphQL: Base branch was modified. Review and try the merge again.`。**这不是真失败**——GitHub 的 mergeable 状态是异步计算的，撞上未刷新的缓存而已。做法：`sleep 5` 后重查 `gh api repos/.../pulls/<number> | jq '{mergeable, mergeable_state}'`，看到 `true` / `clean` 再重试一次 `gh pr merge <number> --merge` 就会成功（2026-09-22 PR #1408 实测）。**绝不能因为这条报错就退回步骤 3 的"本地合并 + 关闭 PR"兜底**，那会让贡献者的 PR 变成红色 Closed。只有权限/分支保护导致的推送失败才算该路径不可行，才降级到步骤 3。合并成功则按下面「合并成功」的致谢评论流程处理，PR 会正常显示为 Merged。
     3. **如果 `MAINTAINER_CAN_MODIFY` 为 `false`**（贡献者未勾选"允许维护者编辑"，没有权限推送到其分支，只能走这条兜底路径），或步骤 2 推送失败：
        ```bash
        git fetch origin master
@@ -254,6 +255,7 @@ gh api "users/<username>/repos?sort=updated&per_page=10" | jq '[.[] | {name, des
 **已确认收录的"模糊身份"先例（不再需要人工判断，直接照此收录）：**
 - 英文站点 + 中文自然留言，账号 profile 无任何中文痕迹 → 收录（例：MailMergeOnline，Linky-AIinlink，英文站 mailmergeonline.com，评论正文自然中文 → 收录主版面）
 - profile 全空/全 fork/PR 正文英文，但 issue 正文自然中文 或 团队仓库里有中文成员 → 收录（例：SandBase CLI，denial123789，issue 中文自然、sandbaseai 团队有 liyb/163 邮箱 → 收录程序员版面）
+- GitHub `name` 字段是外文名、bio / location 全空，但仓库描述全是中文项目 → 收录（例：Tancky AI，tancky777，name 显示 "Ramiro Livi"，但仓库 Cursor-reset-tools、wechat-radar「微信聊天情报看板」、article-extractor「微信公众号」全中文 → 收录主版面）。**`name` 字段单独看最容易误判，必须看仓库描述的语言**（2026-09-22 补充）
 - 作者本人更新自己已有的条目（改 URL / 优化描述）→ 合并，这不算"修改已有条目"的禁令范围，是作者维护自己的产品（例：MyServers，lovercode=codelover 更新官网 myservers.plus → 合并到主版面）
 
 **判定为老外（确凿证据）后的处理：**
