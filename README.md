@@ -26,6 +26,9 @@
 
 ### 2026 年 9 月 30 号添加
 
+#### xjokerabab - [Github](https://github.com/xjokerabab)
+* :white_check_mark: [移民数据](https://yiminshuju.com/?utm_source=github&utm_medium=referral)：美国绿卡排期每月 8-10 号官方公告全量 15 类别逐格对比（逐格标注较上月前进/倒退），加拿大 EE 447 轮抽签记录，美国审理时间与 23 国政策库，另附 6 国积分自测器；免费、无广告、不做中介 - [开源 JSON 数据](https://github.com/xjokerabab/visa-bulletin-cn)
+
 #### blowxian - [Github](https://github.com/blowxian)
 * :white_check_mark: [VideoCreate](https://videocreate.org/)：视频反推提示词（Video to Prompt）工具，上传 60 秒内的 MP4/MOV 参考视频，按时间码切分镜头，逐镜头拆出主体、运镜、动作、光线、风格、声音六项，生成适配 Seedance、Kling 3.0、Wan 2.6、Grok Imagine 的提示词；Google 登录后每天免费分析 5 个视频 - [实测提示词与成片](https://videocreate.org/prompts)
 
@@ -870,7 +873,7 @@
 ### 2026 年 7 月 24 号添加
 
 #### cocodot2026 - [GitHub](https://github.com/cocodot2026)
-* :white_check_mark: [cocodot LLM 降智检测](https://probe.cocodot.co)：LLM API「降智/偷换模型」检测（免费）：填入任意 OpenAI 兼容端点的 base_url 和临时 API Key，跑 6 项探针（模型声明、动态题、能力完整性等）生成分项报告；Key 仅用于当次检测、不落库不留存，检测方法[开源](https://github.com/cocodot2026/cocodot-llmprobe)
+* :white_check_mark: [cocodot LLM 降智检测](https://probe.cocodot.co/?utm_source=github&utm_medium=readme&utm_campaign=1c7)：LLM API「降智/偷换模型」检测（免费）：填入任意 OpenAI 兼容端点的 base_url 和临时 API Key，跑 6 项探针（模型声明、动态题、能力完整性等）生成分项报告；Key 仅用于当次检测、不落库不留存，检测方法[开源](https://github.com/cocodot2026/cocodot-llmprobe)；同一团队还做 OpenAI 兼容的 API 中转 [cocodot](https://cocodot.co/?utm_source=github&utm_medium=readme&utm_campaign=1c7)（支付宝充值）
 
 #### KKWANG4444 - [GitHub](https://github.com/KKWANG4444)
 * :white_check_mark: [AI快站模型质量检测](https://docs.aifast.club/model-check/)：面向 OpenAI Compatible 接口的网页检测工具，输入公开 HTTPS 地址和临时 API Key，可检查模型声明、Token、动态题、SSE 与工具调用并生成分项报告；密钥仅用于当次检测，不写入数据库、缓存或日志
