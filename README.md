@@ -24,7 +24,25 @@
 
 ## 3. 项目列表
 
+### 2026 年 9 月 30 号添加
+
+#### blowxian - [Github](https://github.com/blowxian)
+* :white_check_mark: [VideoCreate](https://videocreate.org/)：视频反推提示词（Video to Prompt）工具，上传 60 秒内的 MP4/MOV 参考视频，按时间码切分镜头，逐镜头拆出主体、运镜、动作、光线、风格、声音六项，生成适配 Seedance、Kling 3.0、Wan 2.6、Grok Imagine 的提示词；Google 登录后每天免费分析 5 个视频 - [实测提示词与成片](https://videocreate.org/prompts)
+
+#### jj2772486-svg - [Github](https://github.com/jj2772486-svg)
+* :white_check_mark: [Jev AI](https://ai-jev.pro/)：把文本和 JSON 转成带概率的是非、选择与评分判定，用于工单分类、内容审核、意图路由、线索打分等场景；站内 Playground 可直接试跑，也提供 API 与 CSV/TXT/JSONL 批量处理，注册送 5 个额度
+
+#### pandaupup(广州) - [Github](https://github.com/pandaupup)
+* :white_check_mark: [Online Tone Generator](https://online-tone-generator.org/)：音调与频率生成工具（免费），在浏览器中生成指定频率的音频信号，支持正弦波、方波、三角波、锯齿波、频率调节、左右声道控制和 WAV 导出，并提供 Frequency Sweep、Multiple Tone、Speaker Test、Subwoofer Test 等音频测试工具，音频处理在浏览器本地完成，无需上传文件或安装软件
+* :white_check_mark: [FPS Tester](https://fpstester.org/)：浏览器 FPS、帧时间与显示测试工具集（免费），可测试实时 FPS、Frame Time、1% Low、FPS Stability、FPS Drop 和刷新率，并提供 FPS Comparison、Screen Tearing、Motion Blur、Monitor Test、Mouse Polling Rate、Reaction Time 等相关测试工具，用于检查浏览器动画性能、显示效果和游戏输入表现
+
+#### muke1838-cloud - [Github](https://github.com/muke1838-cloud)
+* :white_check_mark: [MidiTake](https://miditake.com/?utm_source=github&utm_medium=referral&utm_campaign=backlink)：Convert MP3, WAV or video to MIDI in your browser
+
 ### 2026 年 9 月 29 号添加
+
+#### TaiMaBenJi - [Github](https://github.com/TaiMaBenJi)
+* :white_check_mark: [知识公社](https://taimabenji.github.io/knowledge-commons/)：完全离线的免费学习平台，竞赛真题、公考题库、毛选全文、世界技能大赛一站学，断网可用，浏览器打开即学
 
 #### lumian2015 - [Github](https://github.com/lumian2015)
 * :white_check_mark: [Claude Imagine](https://claudeimagine.com)：AI 图片和视频生成工具，网页上直接用，也能作为 MCP 连接器接入 Claude（claude.ai、Claude Desktop、Claude Code）在对话里出图出视频，支持 Nano Banana 2、GPT Image 2.5、Seedream 4.5、Flux 2 Pro 和 Veo 3.1 Fast，注册送免费额度；独立产品，与 Anthropic 无关
@@ -910,6 +928,8 @@
 * :white_check_mark: [Seedream 5.0 Pro](https://seedream5-pro.im)：多模型 AI 图片工作台，支持文字生图、图片生图、复杂布局与多语言文字编辑
 * :white_check_mark: [FLUX 3 AI Image Generator](https://www-flux3.com)：多模型 AI 图片生成与编辑工作台，支持文字生图、参考图编辑、宽高比与多语言文字控制，并清晰标注模型可用状态
 * :white_check_mark: [FLUX 3 Video Generator](https://flux3-video.online)：AI 视频生成工作台，支持文字或图片生成视频、参考图及镜头、动作和声音提示，并清晰标注模型可用状态
+* :white_check_mark: [Hotel Lobby](https://hotellobby.video)：一句话生成酒店大堂短片场景的 AI 视频工具，输出以短视频画幅为主，省去剪辑时间
+* :white_check_mark: [Space Bunny](https://spacebunny.pro)：用一句话生成短片场景的 AI 视频工具，在多次生成之间保持同一场景的一致性
 
 #### DevEloLin - [Github](https://github.com/DevEloLin)
 * :white_check_mark: [EloLin](https://elolin.com)：一个人做的产品工作室主页，一处浏览我做的全部产品，并用同一个账号登录所有产品
