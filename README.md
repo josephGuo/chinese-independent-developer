@@ -26,7 +26,20 @@
 
 ### 2026 年 10 月 12 号添加
 
+#### AnshengHu - [Github](https://github.com/zgaobai)
+* :white_check_mark: [MomentSift](https://momentsift.com)：AI 照片筛选、美化与创作网站，将相似照片分组并标记模糊、闭眼、曝光问题，先挑选值得保留的照片，再进行增强、修复、放大、移除背景或图像创作；提供 100 张照片与 10 个 AI 积分的免费试用，付费套餐每月 $19.90 起
+
+#### howardz27 - [Github](https://github.com/howardz27)
+* :white_check_mark: [CCViewer](https://ccviewer.top)：在浏览器里回放 Claude Code 会话历史，拖入 .jsonl 文件（或整个 ~/.claude/projects/ 文件夹）即可像聊天记录一样阅读——Markdown 渲染、思考过程、工具调用、Token 与费用统计，全程本地处理不上传 - [查看仓库](https://github.com/howardz27/ccviewer)
+
+#### Finderchangchang - [Github](https://github.com/Finderchangchang)
+* :white_check_mark: [Jev 聊天助手](https://chatjevs.com)：安卓聊天辅助决策工具，回复前先读当前聊天、判断对方意图和风险、起草候选回复并一键填进输入框，发不发由你；国内版支持 QQ、飞书、X、WhatsApp，同仓库另有英文海外版，开源免费，模型接口用自己的 API Key - [更多介绍](https://github.com/jev-chat/jev-chat-jarvis)
+
+#### 88slash(北京) - [Github](https://github.com/88slash)
+* :white_check_mark: [海螺知物](https://haloweava.com)：0-6 岁儿童睡前故事与 AI 绘本网站，故事按 0-2/3-4/5-6 岁分级并附家长共读引导，AI 按孩子昵称和想讲的道理生成 3-8 页带插画的专属绘本，英文单词嵌进中文故事、点词听母语童声发音，可点读、可装订打印
+
 #### sweesama - [Github](https://github.com/sweesama)
+* :white_check_mark: [听说了吗？](https://anymesgs.com/)：AI 资讯解读站，每天两篇，从原始论文、官方博客和发布说明出发，用中英日三语解读最新 AI 新闻与论文，附原文链接，免费无需注册
 * :white_check_mark: [favicondl](https://favicondl.com/zh/)：网站图标下载工具，输入任意网址，自动找出该网站最清晰的图标（SVG / 大尺寸 PNG / ICO）并一键下载，也可一次批量下载 100 个网站的图标，免费无需注册
 
 #### zeroXu1 - [Github](https://github.com/zeroXu1)
@@ -51,11 +64,16 @@
 
 ### 2026 年 10 月 10 号添加
 
-#### leo(上海) - [Github](https://github.com/TangSirOnGit)
-* :white_check_mark: [Launchlist](https://launchlist.si)：A community-voted weekly launch for AI and superintelligence builders
+#### JonathanOwenTJ - [Github](https://github.com/JonathanOwenTJ)
+* :white_check_mark: [阿军图解产业](https://ajun-industry.packscena.com/)：中文产业图解知识库，55 期免费全文涵盖 AI 与算力、半导体与电子、新能源与储能、电力与设备、先进材料、医药与生命科学、高端装备 7 个领域，另设 7 个专题串读；完整高清图解需登录兑换
+* :white_check_mark: [ResumePlot AI](https://resumeplot.com/)：中英双语 AI 简历编辑器，导入 PDF、DOCX 或文本后逐条整理真实经历，按目标岗位调整内容并导出可检索 PDF；基础编辑免费，AI 改写需登录，含免费额度
+* :white_check_mark: [SubAtlas 订阅图谱](https://subatlas.packscena.com/)：AI 订阅比价资料库，收录 63 个产品，按规格、地区、订阅周期与交付方式比较公开报价，保留来源、更新时间与历史价格走势，支持设置价格与到期提醒；站点只做资料收录，不销售订阅
 
 #### Wuhan Zhang - [Github](https://github.com/endNone)
 * :white_check_mark: [ClickPulse](https://github.com/endNone/ClickPulse)：免费的离线键鼠活动统计工具，支持 macOS 和 Windows，以键盘热力图、活动日历和迷你悬浮窗口展示输入习惯，数据保存在本机，不记录输入文本
+
+#### leo(上海) - [Github](https://github.com/TangSirOnGit)
+* :white_check_mark: [Launchlist](https://launchlist.si)：A community-voted weekly launch for AI and superintelligence builders
 
 #### fsh114514(江苏) - [Github](https://github.com/fsh114514)
 * :white_check_mark: [门外谈 Menwai Tan](https://outgate.chat)：AI 思想家辩论场，把 26 位以上思想家蒸馏成 SKILL.md 人格，可单人对谈也可开圆桌让多位思想家轮流交锋；随口／较真／上头三档控制回答火候，气氛上来自动升级，遇到不懂的梗先联网检索再回答；支持自带 API Key，也留了站内免费通道 - [源码](https://github.com/fsh114514/menwaitan)
@@ -67,19 +85,14 @@
 #### Jamailar - [Github](https://github.com/Jamailar)
 * :white_check_mark: [LeanFPS](https://leanfps.com/)：Windows 游戏优化与帧率测量工具，自动识别运行中的游戏并按游戏与类型配置系统设置，记录平均 FPS、1% low 与会话历史；每项设置可单独撤销，临时会话改动退出后还原，不修改游戏文件与内存、不注入游戏内覆盖层、不关闭 Defender 与防火墙；Rust + egui 开发，免费版含游戏识别、帧率测量和 5 项优化，Pro 早鸟价 $19 一次性（之后 $29） - [源码](https://github.com/Jamailar/leanfps)
 
-#### JonathanOwenTJ - [Github](https://github.com/JonathanOwenTJ)
-* :white_check_mark: [阿军图解产业](https://ajun-industry.packscena.com/)：中文产业图解知识库，55 期免费全文涵盖 AI 与算力、半导体与电子、新能源与储能、电力与设备、先进材料、医药与生命科学、高端装备 7 个领域，另设 7 个专题串读；完整高清图解需登录兑换
-* :white_check_mark: [ResumePlot AI](https://resumeplot.com/)：中英双语 AI 简历编辑器，导入 PDF、DOCX 或文本后逐条整理真实经历，按目标岗位调整内容并导出可检索 PDF；基础编辑免费，AI 改写需登录，含免费额度
-* :white_check_mark: [SubAtlas 订阅图谱](https://subatlas.packscena.com/)：AI 订阅比价资料库，收录 63 个产品，按规格、地区、订阅周期与交付方式比较公开报价，保留来源、更新时间与历史价格走势，支持设置价格与到期提醒；站点只做资料收录，不销售订阅
+#### yisonlee888 - [Github](https://github.com/yisonlee888)
+* :white_check_mark: [ToolStack](https://tools.mindutil.com/)：免费在线工具箱，汇集 32 款打开即用的日常小工具（图片压缩与裁剪、JPG/PNG/WebP/HEIC 格式互转、颜色取色与转换、二维码与密码生成、字数统计、BMI/小费/折扣等计算器），全部在浏览器本地运行，无需注册、文件不上传，界面支持 7 种语言
 
 #### littlePig-zzf - [Github](https://github.com/littlePig-zzf)
 * :white_check_mark: [Rumpelstiltskin AI Video](https://airumpelstiltskin.org)：AI 换脸跳舞视频生成器，上传一张肖像替换踮脚舞者、或上传两张分别替换舞者与少女，原参考视频的场景、镜头和舞蹈动作保持不变；内置参考舞蹈，无需编写提示词，支持 480P / 720P，输出约 12.7 秒的 MP4 并带原参考音频 — 生成需登录购买积分，$9.90 起一次性付费，无需订阅
 
 #### Vadaski - [Github](https://github.com/Vadaski)
 * :white_check_mark: [九曜印占](https://jiuyaoyinzhan.com)：印度占星（吠陀占星）排盘与 AI 解读网站，按天文历计算本命盘、大运与年盘，围绕一个问题可连续追问；出生时间记不准时可用几件人生大事做生辰校准，线索充分时收窄到分钟级；对话只存浏览器本地，简繁中文，排盘免费、AI 解读按点数计费
-
-#### yisonlee888 - [Github](https://github.com/yisonlee888)
-* :white_check_mark: [ToolStack](https://tools.mindutil.com/)：免费在线工具箱，汇集 32 款打开即用的日常小工具（图片压缩与裁剪、JPG/PNG/WebP/HEIC 格式互转、颜色取色与转换、二维码与密码生成、字数统计、BMI/小费/折扣等计算器），全部在浏览器本地运行，无需注册、文件不上传，界面支持 7 种语言
 
 ### 2026 年 10 月 9 号添加
 
@@ -629,7 +642,7 @@
 ### 2026 年 9 月 4 号添加
 
 #### zeroXu1 - [Github](https://github.com/zeroXu1)
-* :white_check_mark: [HTMLShare](https://www.htmlshare.page/)：将静态 HTML 发布为可分享的预览链接，方便快速分享和评审原型页面，无需 Git、生产部署和注册账号
+* :white_check_mark: [HTMLShare](https://hosthtmlfile.com/)：将静态 HTML 发布为可分享的预览链接，方便快速分享和评审原型页面，无需 Git、生产部署和注册账号
 
 ### 2026 年 9 月 3 号添加
 
