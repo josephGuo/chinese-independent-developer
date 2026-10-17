@@ -24,6 +24,29 @@
 
 ## 3. 项目列表
 
+### 2026 年 10 月 17 号添加
+
+#### strzhao - [Github](https://github.com/strzhao)
+* :white_check_mark: [AI Todo](https://github.com/strzhao/ai-todo)：自然语言任务管理，说一句话就改成结构化任务操作，diff 预览、确认后才执行；支持多层嵌套子任务，任务列表可升级为共享项目空间（@成员 + 甘特图）；另提供 JSON 输出的 CLI 供 AI agent 调用，在线版 https://ai-todo.stringzhao.life，开源（MIT）
+* :white_check_mark: [拾光 Relight](https://github.com/strzhao/relight)：本地 AI 照片库，视觉模型在本机给照片打中文美学标签、写一段描述、打质量分，每天选出「每日精选」起标题配短文，macOS 菜单栏 App 自动设成壁纸；推理默认在本机完成，照片和标签不出电脑，开源（MIT）
+
+#### Justin3go - [Github](https://github.com/Justin3go), [博客](https://justin3go.com)
+* :white_check_mark: [Blob0](https://blob0.com)：macOS 上的 Cloudflare R2 / S3 对象存储客户端，像管理本地文件夹一样上传、下载、整理、预览和分享文件，文件存放在自己的存储账户；支持 Obsidian / Typora 粘贴图片自动上传，内置 CLI 与 Agent Skill；完整功能免费试用 30 天，之后 $16.90 一次性买断，无订阅
+
+#### Keith - [Github](https://github.com/Keith-CY)
+* :white_check_mark: [拉普拉斯的迷你世界](https://world.lapla.si/zh/)：3D 科学科普网站，100 多个能转动、能拆开的交互模型（四季、潮汐、黑洞、蒸汽机、神经网络……），每页写明模型简化了什么，中英双语，免费无广告，内容 CC BY-NC 4.0
+* :white_check_mark: [言の葉](https://japaneseskills.com/)：JLPT 日语学习网站，9,040 个单词、828 条语法、802 个阅读短句，按 N5–N1 筛选，从五十音学起，可标记进度；入门和 N5 免费，N4 以上订阅
+* :white_check_mark: [MeshMend](https://mesh-mend.pages.dev/)：STL 网格检查与修复工具（英文界面），去掉重复面和零面积面、统一法线朝向、可补小的平面破洞，支持 3MF 转 STL，修复前后对比，文件在浏览器本地处理不上传，免费
+
+#### Rory - [Github](https://github.com/Coiggahou2002)
+* :white_check_mark: [VibeCV](https://vibecv.com)：聊天写简历的网页工具，讲讲你的经历，AI 整理成规范简历，可导出一页 PDF 或 Word，一句话生成英文版，第一份免费
+
+#### BogerHou - [Github](https://github.com/BogerHou)
+* :white_check_mark: [Fuse Bead Patterns](https://fusebeadpatterns.art/)：拼豆图纸制作工具，将自己的图片转换为 Perler／Hama／Artkal S 配色网格，支持逐格编辑、材料统计、PNG／PDF 导出及工程保存；当前免费，无需注册，图片在浏览器内处理
+
+#### tumingke0 - [Github](https://github.com/tumingke0)
+* :white_check_mark: [LayoutKeeper](https://github.com/tumingke0/LayoutKeeper)：Mac 外接屏窗口布局恢复工具，拔掉显示器再插回，窗口自动回到原来的位置和桌面（Space），家里公司换着接不同的显示器也行；还能用键盘亮度键直接调外接屏亮度，免费开源 - [下载](https://github.com/tumingke0/LayoutKeeper/releases/latest)
+
 ### 2026 年 10 月 16 号添加
 
 #### zhoujungis - [Github](https://github.com/zhoujungis)
@@ -86,10 +109,6 @@
 
 #### Huang Zhiwen - [Github](https://github.com/wdhzw)
 * :white_check_mark: [花花记账](https://apps.apple.com/app/id6801466802)：注重设计与长期记录的 iPhone 生活账本，在本地根据个人记录学习消费习惯，提供分类与下一笔建议，用记账地图回放和月度回顾重温生活；免费下载，部分功能与外观付费
-#### huayanming - [Github](https://github.com/huayanming)
-* :white_check_mark: [DisplayPilot](https://huayanming.github.io/displaypilot/zh-Hans/?src=1c7)：macOS 外接显示器控制台，用 DDC/CI 直接调亮度、音量与输入源；面板不响应 DDC/CI 时自动改用伽马表调光，另含以面板原始曲线为基准的色彩校准，以及先隔离再删除的开发者缓存清理
-
-
 
 ### 2026 年 10 月 15 号添加
 
@@ -5515,44 +5534,6 @@
 #### 小学后生(杭州) - [Github](https://github.com/Dnevend), [个人主页](https://dnevend.site/)
 * :white_check_mark: [X-Comfort-Browser - 浏览器插件](https://x-comfort-browser.xyz/)：用于浏览内容平台(推特、知乎)时，模糊媒体资源，屏蔽广告。专注信息获取，减少视觉干扰，获得互联网噪音下的注意力主动权，同时避免公共场合出现尴尬的场景。- [开源地址](https://github.com/dnevend/x-comfort-browser/)
 
-### 2024 年 10 月 25 号添加
-#### JARK006 - [Github](https://github.com/jark006)
-* :white_check_mark: [jarkViewer](https://github.com/jark006/jarkViewer)：Windows 平台看图软件
-* :white_check_mark: [FtpServer](https://github.com/jark006/FtpServer)：Windows 平台 FTP 服务器
-* :white_check_mark: [小天气](https://github.com/jark006/weather_widget)：安卓平台桌面天气小部件
-
-#### Q-Sansan
-* :white_check_mark: [Img2Video](https://img2video.ai/)：用文本或图像生成短视频（AI）非常适合社交媒体，立即开始创作爆款内容吧！
-
-#### 疯狂的小波(武汉) - [Github](https://github.com/MuYiBo)
-* :white_check_mark: [Bluesky Video Downloader](https://blueskyvideodownloader.org/)：Bluesky 视频下载器，输入 Bluesky 文章地址，即可将文章中的视频下载到本地
-
-#### Yue - [Github](https://github.com/yuegao04)
-* :white_check_mark: [Yes/No 塔罗 AI](https://yesnotarot.org/)：融合 AI 技术与塔罗洞见，快速获得"是"与"否"解答
-* :white_check_mark: [ProjectHunt](https://projecthunt.me/)：发现与分享独立项目
-
-#### kevin 不会写代码 - [Twitter](https://x.com/PennyJoly)
-* :x: [CheapGpt - 企业级 I 模型 API](https://ai.linktre.cc)：AI 接口调用平台 (稳定、高效、高并发、便宜、企业级）支持 OpenAI、Claude、Gemini 等主流 AI 大模型
-
-### 2024 年 10 月 23 号添加
-#### Blushyes(北京) - [Github](https://github.com/blushyes)
-* :white_check_mark: [如快](https://sofast.fun)：启动器软件（基于 Tauri 开发，支持 Windows 和 Mac），UI 风格类似 Raycast，对键盘操作友好，大幅提高办公学习效率，支持快捷链接、剪贴板管理等功能并支持开发自定义扩展
-
-#### meetqy(成都) - [Github](https://github.com/meetqy)
-* :x: [aiseka.com](https://aiseka.com)：色彩管理工具，有颜色的介绍，色卡制作，色卡推荐 3 个主要功能
-
-### 2024 年 10 月 22 号添加
-#### fengmao(广州)
-* :white_check_mark: [liusha tech detector](https://liusha.org/)：分析技术栈，提交一个网址，分析该网站用的技术栈，是否 CMS，用什么编程语言，数据分析工具等
-
- #### QC2168(揭阳) - [Github](https://github.com/QC2168), [博客](https://island-record.vercel.app/)
-* :white_check_mark: [MIB](https://github.com/QC2168/mib)：安卓数据备份软件，根据配置自动将移动设备上的数据文件迁移备份至电脑上，支持增量备份，节点配置
-
-#### Nico（长沙）- [Github](https://github.com/yijianbo)
-* :x: [Subrise](https://subrise.co/zh)： Subrise 精心为出海创业者打造 Reddit 运营工具，挑选并分类优质的 Reddit 资讯，运营干货。我们帮助你发现高质、与业务匹配的 Reddit 流量社区，分享一线实操运营干货，帮助您实现 Reddit 流量掘金。
-
-#### 疯狂的小波(武汉) - [Github](https://github.com/MuYiBo)
-* :white_check_mark: [Hurricane Simulator](https://hurricanesimulator.org/)：飓风模拟器，根据不同的季节模拟飓风造成的影响、破坏，提高灾害意识
 
 ## 👉 更早的项目（2018 年 ~ 2024 年）在[这里单独一册](./.github/pages/README-Earlier-Projects.md)
 
