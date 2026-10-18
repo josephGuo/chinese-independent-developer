@@ -24,7 +24,29 @@
 
 ## 3. 项目列表
 
+### 2026 年 10 月 18 号添加
+
+#### Peacoke - [Github](https://github.com/Peacoke)
+* :white_check_mark: [BeadPattern](https://beadpattern.art/)：拼豆图案与像素画生成工具（免费），照片转 Perler/Hama/Artkal 官方色卡图案并算珠子数，纯前端零上传保护隐私，支持图纸导出与专注拼豆模式
+
+#### Linky - [Github](https://github.com/Linky-AIinlink)
+* :white_check_mark: [Children's Chore](https://childrenschoreapp.com/)：面向 4–14 岁孩子家庭的家务打卡与积分奖励工具（免费），家长安排任务、孩子打卡、家长一键确认得积分换家庭自定奖励，支持重复任务、照片证明、假期暂停与共用平板模式，孩子用 PIN/二维码登录，可打印家务表免注册使用
+
+#### KELEN - [Github](https://github.com/imkelen)
+* :white_check_mark: [zippic](https://zippic.app)：图片压缩与格式转换工具，支持 JPG/PNG/WebP/AVIF/GIF/JXL 批量处理、共 19 个图片工具，浏览器本地运行不上传，免费无需注册
+
+#### Owen Zhang
+* :white_check_mark: [EOR 雇主服务成本计算器](https://chinaabroadguide.com/eor-cost-calculator/)：输入员工薪资和雇佣国家，实时对比 Deel、Remote、Playroll 三大 EOR 平台月度总成本（含雇主社保税估算），中文界面，免费无需注册
+
 ### 2026 年 10 月 17 号添加
+#### ChengAoShen - [Github](https://github.com/ChengAoShen)
+* :white_check_mark: [Textus](https://textus.catvinci.com)：所见即所得的 Markdown 编辑器，支持公式、表格和 Mermaid，可选 AI 写作助手逐句给出修改建议，支持 DeepSeek 等 20 多家模型和 Ollama 本地模型；免费开源，无需账号，支持 macOS、Windows、Linux - [下载](https://github.com/CatVinci-Studio/Textus/releases/latest)
+
+#### nbbmw - [Github](https://github.com/nbbmw)
+* :white_check_mark: [Calculator365](https://www.calculator-365.com/zh-Hans)：多语言在线计算器网站（中英日等 6 种语言），提供 20 多个计算工具，覆盖数学、金融、时间和健身等领域，iOS 支持桌面小组件、输入法、语音播报等功能 - [下载地址](https://apps.apple.com/cn/app/id6448260851)
+
+#### xjokerabab - [Github](https://github.com/xjokerabab)
+* :white_check_mark: [IP for AI](https://ipforai.cc/)：AI 网络环境检测网页，打开即测当前 IPv4 / IPv6 出口的地区、ASN 与代理 / VPN / Tor 信号，并检测 ChatGPT、Claude、Gemini 等服务公开资源的连通性、识别各 AI 厂商实际看到的出口；各维度分开列出、不给单一「纯净度」分数，另提供服务器命令行只读检测
 
 #### strzhao - [Github](https://github.com/strzhao)
 * :white_check_mark: [AI Todo](https://github.com/strzhao/ai-todo)：自然语言任务管理，说一句话就改成结构化任务操作，diff 预览、确认后才执行；支持多层嵌套子任务，任务列表可升级为共享项目空间（@成员 + 甘特图）；另提供 JSON 输出的 CLI 供 AI agent 调用，在线版 https://ai-todo.stringzhao.life，开源（MIT）
@@ -5502,38 +5524,6 @@
 ### 2024 年 11 月 9 号添加
 #### Leo - [Github](https://github.com/andylearnai)
 - :white_check_mark: [TalkingAvatar](https://www.talkingavatar.ai/)：一键生成 AI 数字人视频的平台，支持多语言对话、表情动作定制，可快速创建个性化数字分身用于营销、教育等场景
-
-### 2024 年 11 月 5 号添加
-#### 94R7(桂林) - [Github](https://github.com/WtecHtec), [博客](https://r7.nuxt.dev/)
-* :white_check_mark: [SparkleEasy](https://sparkleeasy.pages.dev/)：macOS 开发者的效率工具，一键生成 Sparkle 更新配置，快速管理应用权限，让开发更简单 - [更多介绍](https://sparkleeasy.pages.dev)
-
-#### eddilexiok(上海)
-* :white_check_mark: [拾音簿 pickupnote](https://apps.apple.com/cn/app/%E6%8B%BE%E9%9F%B3%E7%B0%BF-pickupnote-%E6%88%91%E7%9A%84%E9%9F%B3%E4%B9%90%E6%94%B6%E8%97%8F%E5%BA%93/id6478777973)：专为"记录声音场景"而生。将每一条笔记与特定的音乐绑定，3 秒内便可以完成。用标签和检索功能，则可以轻松找到那些与音乐相伴的重要时刻 - [官网](https://pickupnote.com/zh/about)
-
-### 2024 年 11 月 3 号添加
-#### Zero24 - [Github](https://github.com/Liu-Lixin)
-* :white_check_mark: [Recap](https://recapall.app/)：帮助你整理杂乱的内容，节省时间的 Chrome 插件！把网页和 PDF 转化为有趣的视觉摘要，包括思维导图、时间线和表格总结。适合学生、专业人士和内容创作者！
-
-### 2024 年 11 月 2 号添加
-#### 食谱甄选（广州） - [Github](https://github.com/xiaocp)
-* :white_check_mark: [食谱甄选](https://xiaocp.oss-cn-shenzhen.aliyuncs.com/images/applet/wx_cookbook.png)：百万菜谱任君选择，专为下厨房而设计的菜谱 APP，菜谱精心甄选佳而全。每天纠结吃啥菜谱，根据个人口味食材智能推荐 (微信小程序)
-
-### 2024 年 10 月 31 号添加
-#### Corey Chiu(深圳) - [Github](https://github.com/iamcorey)
-* :white_check_mark: [AI Best Tools导航站](https://aibest.tools/)：收录各种优质的 AI 产品工具，帮用户找到最优质且好用的 AI 产品，同时助力 AI 产品开发者展示自己产品。并且网站定时爬取 Product Hunt 等优质产品平台，给 AI 产品开发者提供开发及需求的思路。欢迎大家来提交自己的 AI 产品及发掘更多优质的 AI 工具
-
-### 2024 年 10 月 27 号添加
-#### MrHuZhi - [Github](https://github.com/MrHuZhi)
-* :white_check_mark: [文件禅](https://fileneatai.com/?lang=zh-cn)：AI 文件整理工具，电脑中不断积累文件，每次想整理时，却总是发现这项任务既耗时又费力。为了解决这一痛点，我开发了可以自动化整理和分类杂乱文件的 AI 工具——FileNeatAI，它可以根据文件夹里的文件内容，通过AI自动的将文件进行分类并整理到不同的文件夹中，同时还可以对一些命名不规则的文件进行智能命名，帮助用户轻松、高效地管理文件，提升工作效率 - [图文介绍](https://github.com/1c7/chinese-independent-developer/issues/439?notification_referrer_id=NT_kwDOABuJ07MxMzA2NzY1NzU0MzoxODA0NzU1)
-
-### 2024 年 10 月 26 号添加
-#### Ethan Sunray
-* :white_check_mark: [Temp Mail](https://tempmail.la/)：临时邮箱(免费)，保护隐私安全，避免垃圾邮件骚扰，打开就可以使用，无需登录或注册。
-* :white_check_mark: [AI Detector](https://aidetector.tech/)：验证文本和图片是否由 AI 生成，图片和 PDF 等文档已支持 [C2PA](https://c2pa.org/) 内容凭证校验。（[C2PA](https://c2pa.org/) 是一项创新的开放技术，旨在提供在线内容的详细背景信息，增强数字内容的可信度和透明度，目前 OpenAI、Microsoft、Heygen 等知名公司都已经支持）
-
-#### 小学后生(杭州) - [Github](https://github.com/Dnevend), [个人主页](https://dnevend.site/)
-* :white_check_mark: [X-Comfort-Browser - 浏览器插件](https://x-comfort-browser.xyz/)：用于浏览内容平台(推特、知乎)时，模糊媒体资源，屏蔽广告。专注信息获取，减少视觉干扰，获得互联网噪音下的注意力主动权，同时避免公共场合出现尴尬的场景。- [开源地址](https://github.com/dnevend/x-comfort-browser/)
-
 
 ## 👉 更早的项目（2018 年 ~ 2024 年）在[这里单独一册](./.github/pages/README-Earlier-Projects.md)
 
