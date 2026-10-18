@@ -26,6 +26,21 @@
 
 ### 2026 年 10 月 18 号添加
 
+#### makexyf-max - [Github](https://github.com/makexyf-max)
+* :white_check_mark: [少装一点](https://lessaitools.com/)：AI 插件目录，按具体任务整理 MCP 工具、Skills 与编辑器插件，逐项给出中文用途说明、接入方式和原项目链接，已收录 124 个项目，提供中英等多语言界面
+
+#### 小明 - [Github](https://github.com/xiaomingio)
+* :white_check_mark: [Weather Trip](https://weather-trip.aicake.io)：按未来天气筛选旅行目的地的工具站，支持按温度、降雨、湿度等条件查找全球城市，通过天气地图比较城市预报，提供中英文界面 - [GitHub 仓库](https://github.com/xiaomingio/weather-trip)
+
+#### ikeisthere - [Github](https://github.com/ikeisthere)
+* :white_check_mark: [夸夸跨境](https://kuakuakua.com/pricing-calculator/)：面向中国 Ozon 跨境卖家的免费定价计算器（免登录，按类目佣金、rFBS/FBP 物流资费、汇率与目标利润反推建议售价）与中文实操教程；可选多店体检工作台 — Web 应用
+
+#### stimQQ - [Github](https://github.com/stimQQ)
+* :white_check_mark: [LayerGrab](https://layergrab.com)：AI 图片转图层工具，把一张图拆成可编辑的命名图层并补全被遮挡的背景，可导出 PNG/PSD，也能只提取你指名的一个元素；有 Figma 插件和 Chrome 扩展，网页英文界面，每个账号可免费试用一次 - [更多介绍](https://github.com/layergrab/layergrab-plugins)
+
+#### dyordo - [Github](https://github.com/dyordo)
+* :white_check_mark: [SortLines](https://sortlines.com)：文本行处理工具，粘贴文本即可按字母、数字、自然顺序或长度排序行，并支持删除重复行、对比列表、随机打乱、反转与清理关键词列表，浏览器本地处理不上传，免费无需注册
+
 #### Peacoke - [Github](https://github.com/Peacoke)
 * :white_check_mark: [BeadPattern](https://beadpattern.art/)：拼豆图案与像素画生成工具（免费），照片转 Perler/Hama/Artkal 官方色卡图案并算珠子数，纯前端零上传保护隐私，支持图纸导出与专注拼豆模式
 
@@ -5484,46 +5499,6 @@
 
 #### zebrapixel - [Twitter](https://x.com/xdkc2000)
 * :x: [像素画家](https://apps.apple.com/app/pixel-one/id6504689184)：简单易用的像素画编辑器 - [更多介绍](https://www.zebrapixel.com)
-
-### 2024 年 11 月 22 号添加
-#### jianpingliu - [Github](https://github.com/jianpingliu)
-* :white_check_mark: [ExtensionsFox](https://extensionsfox.store)：几个 Instagram 自动化运营小工具 - [更多介绍](https://github.com/asterism-software/extensionsfox.store)
-* :white_check_mark: [AMZ Downloader](https://amzdownloader.com)：Amazon 产品图片和视频下载小工具 - [更多介绍](https://github.com/asterism-software/amzdownloader.com)
-* :white_check_mark: [docgenie](https://docgenie.co.uk)：将 Kindle Scribe 笔记本直接分享至各种云存储服务 - [更多介绍](https://github.com/asterism-software/docgenie.co.uk)
-
-### 2024 年 11 月 21 号添加
-#### AlkaidWaong - [Github](https://github.com/AlkaidWaong)
-* :x: [BestAffiliate](https:www.bestaffiliate.link)：精选的软件联盟计划的目录，帮助科技数码创作者获取更好的收益。
-
-#### Q-Sansan - [Github](https://github.com/Q-Sansan)
-* :white_check_mark: [OnlyFansKit](https://www.onlyfanskit.com/)：专为 OnlyFans 创作者设计的免费工具平台。其目的是帮助创作者轻松创建和管理自己的内容和账户，提升在 OnlyFans 上的成功机会。通过这个平台，用户可以生成独特的名字、用户名以及吸引人的个人简介。此外，OnlyFansKit 还提供自动生成欢迎消息的功能，让粉丝初次访问时便能感受到创作者的独特魅力。同时，该平台配有税收计算器，帮助创作者轻松完成财务规划与管理，为创作者节省时间与精力。
-
-### 2024 年 11 月 19 号添加
-#### khaos - [Github](https://github.com/cxykhaos), [博客](https://khaos.net.cn)
-* :white_check_mark: [khaos 电吉他社](https://www.khaos.net.cn)：电吉他谱分享网站（有电吉他爱好的程序员做的）
-
-### 2024 年 11 月 17 号添加
-#### Indie Maker Fox - [Github](https://github/javayhu) [Twitter](https://x.com/indie_maker_fox) [Blog](https://mksaas.me)
-* :white_check_mark: [导航站模板](https://mkdirs.com/)：轻松创建并部署上线的导航站模板，默认集成注册登录、支付、邮件、博客、导航站等所有功能
-
-### 2024 年 11 月 16 号添加
-#### my19940202 - [Github](https://github.com/my19940202)
-* :white_check_mark: [网页版屏保小工具](https://www.screensaver.top/zh)
-
-### 2024 年 11 月 12 号添加
-#### vlv - [Github](https://github.com/livv)
-* :white_check_mark: [vPaste](https://apps.apple.com/cn/app/vpaste/id6444913968)：Mac 平台优秀的剪切板工具
-
-### 2024 年 11 月 10 号添加
-#### Space Time - [Github](https://github.com/SpaceTimee), [博客](https://blog.spacetimee.xyz/)
-* :white_check_mark: [Sheas Cealer](https://github.com/SpaceTimee/Sheas-Cealer)：SNI 伪造工具，无需代理即可合法加速 Github, Steam, Pixiv 等网站的直连，让你的网络冲浪畅快无阻
-
-#### Corey Chiu(深圳) - [Github](https://github.com/iamcorey)
-- :white_check_mark: [Best Directories](https://bestdirectories.org)：导航站的导航站，网站汇集收录各类别各领域的优质导航站，帮助用户发现各领域优质的导航站，从而找到好用的产品。并且收录各类优质打榜平台，不止 ProductHunt，帮助产品更快启动。
-
-### 2024 年 11 月 9 号添加
-#### Leo - [Github](https://github.com/andylearnai)
-- :white_check_mark: [TalkingAvatar](https://www.talkingavatar.ai/)：一键生成 AI 数字人视频的平台，支持多语言对话、表情动作定制，可快速创建个性化数字分身用于营销、教育等场景
 
 ## 👉 更早的项目（2018 年 ~ 2024 年）在[这里单独一册](./.github/pages/README-Earlier-Projects.md)
 
