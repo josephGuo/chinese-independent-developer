@@ -26,6 +26,18 @@
 
 ### 2026 年 10 月 19 号添加
 
+#### xinyanghu7 - [Github](https://github.com/xinyanghu7)
+* :white_check_mark: [苏哲AI](https://suzhe.ai)：ChatGPT 会员开通站，支付宝付款，买卡密后网页自助激活，通常 1–3 分钟到账，订阅类质保 1 个月；另有 Gemini、Super Duolingo 等 AI 会员
+
+#### 犀利豆 - [Github](https://github.com/diaozxin007)
+* :white_check_mark: [AI Anime Generator](https://ai-anime-generator.io/)：AI 动漫绘图网站，输入文字或上传照片生成动漫角色、头像和 Chibi 图片，可选画风与画面比例，提供可直接使用的提示词；英文界面，需 Google 登录，新账号赠送 30 积分（7 天有效），生成按模型扣积分
+
+#### Simon - [Github](https://github.com/simonwong), [博客](https://simonwong.cn)
+* :white_check_mark: [Speaker](https://speaker.moonunder.app)：macOS 原生语音输入工具，BYOK，语音识别可选豆包、OpenAI、千问，macOS 26 及以上可用 Apple 离线识别，不需要 Key；支持多种文字整理模式，也可以自定义；无账号无服务端，会话记录和个人词库只存在本地；免费开源 - [GitHub 仓库](https://github.com/simonwong/speaker)
+
+#### kevinxding - [Github](https://github.com/kevinxding), [推特](https://x.com/whispek_DingXu)
+* :white_check_mark: [Whispek](https://whispek.com)：AI 语音输入桌面应用，按住一个键说话，松开后整理好的文字直接出现在几乎任何应用的光标处，能去掉「嗯」「啊」和重复，还能语音翻译；支持 Windows、macOS、Linux（.deb 和 AppImage），有免费额度，每 7 天刷新
+
 #### 董子航 - [Github](https://github.com/ZihangDong)
 * :white_check_mark: [ToolKnit](https://toolknit.com/)：免费、免注册的 PDF、图片、音视频和文本在线工具箱，支持中英文切换；PDF 转图片、图片裁剪等功能在浏览器本地完成，部分工具设有使用额度或文件大小上限
 
@@ -5482,34 +5494,6 @@
 ### 2024 年 12 月 10 号添加
 #### cuiheng511 - [Github](https://github.com/cuiheng511)
 * :white_check_mark: [Autoppt](https://autoppt.com)：AI 演示文稿生成工具，彻底改变了您创建演示文稿的方式。凭借丰富的模板和强大的功能，让您轻松在几分钟内制作出令人惊叹的演示文稿
-
-### 2024 年 12 月 8 号添加
-#### chrox - [Github](https://github.com/chrox/readest)
-* :white_check_mark: [Readest](https://readest.com?utm_source=indiecn&utm_medium=referral&utm_campaign=post)：阅读软件（极简设计、开源、跨平台） - [更多介绍](https://github.com/chrox/readest)
-
-#### underwoodxie - [Github](https://github.com/underwoodxie)
-* :x: [一键将 Youtube 视频转成 SEO 友好的文章](https://video-to-article.com/)：自己在做网站时发现有些 Youtube 视频的质量很好，想把内容变成文字放在自己的网站上，每次都需要转好几个工具，因此做了一个解决自己问题的工具，如果大家有需要可以使用。
-
-### 2024 年 12 月 7 号添加
-#### Ovelv（西安）- [Github](https://github.com/ovelv)
-* :white_check_mark: [OnionAI](https://onionai.so)：AI 聚合搜索引擎，轻松切换不同的 AI 搜索引擎
-
-### 2024 年 12 月 6 号添加
-#### canghaicheng(苏州) 
-* :x: [桌面世界](https://www.zhuomianshijie.com/)：3D 聊天机器人桌面应用
-
-#### 疯狂的小波(武汉) - [Github](https://github.com/MuYiBo)
-* :x: [Genie 2](https://genie2.co/)：大规模基础世界模型，能将单张图像转换为完全交互式的 3D 环境
-
-#### Fooying - [Github](https://github.com/fooying), [博客](fooying.com/?ref=chinese-independent-developer)
-* :x: [SECSOSO 安全搜搜](https://secsoso.com/)：网络安全垂直领域AI搜索，安全搜搜，搜索安全 - [更多介绍](https://www.producthunt.com/products/secsoso)
-
-### 2024 年 11 月 24 号添加
-#### 玩具工匠 - [Github](https://github.com/HiToysMaker)
-* :white_check_mark: [字玩](https://www.font-player.com)：字体设计工具 - [源代码](https://github.com/HiToysMaker/fontplayer)
-
-#### zebrapixel - [Twitter](https://x.com/xdkc2000)
-* :x: [像素画家](https://apps.apple.com/app/pixel-one/id6504689184)：简单易用的像素画编辑器 - [更多介绍](https://www.zebrapixel.com)
 
 ## 👉 更早的项目（2018 年 ~ 2024 年）在[这里单独一册](./.github/pages/README-Earlier-Projects.md)
 
