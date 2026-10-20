@@ -26,6 +26,24 @@
 
 ### 2026 年 10 月 20 号添加
 
+#### Kevin(China) - [Github](https://github.com/kevin0168)
+* :white_check_mark: [DTCStack](https://www.dtcstackhq.com/)：面向 Shopify/DTC 卖家的免费电商工具库，17 个工具覆盖订单利润、广告 ROAS、支付费率、到岸成本、退货、批发定价和商品 SEO，浏览器本地计算、免登录，中英双语 - [更多介绍](https://www.dtcstackhq.com/tools/)
+
+#### dlxeva - [Github](https://github.com/dlxeva), [博客](https://aizhiz.com/zh/)
+* :white_check_mark: [VOXR](https://aizhiz.com/voxr/)：导入 AI 配音的 SRT 字幕，在浏览器本地逐句找出语速、停顿和节奏问题，整理成可回看的复核点和交给下一次 TTS 重配的提示词，免费免注册 - [更多介绍](https://aizhiz.com/zh/posts/2026-07-29-voiceover-review-layer/)
+
+#### blowxian - [Github](https://github.com/blowxian)
+* :white_check_mark: [AI Doctor Scan](https://aidoctorscan.com/)：可见症状的照片分诊工具，上传照片并可选填写症状，获得 AI 生成的就医紧急程度提示和简短说明；首次结果免费且无需登录，可追加同一区域的照片复查，支持英语等 7 种语言（暂无中文）；仅供健康教育参考，不构成诊断或替代就医
+
+#### David-XIa001(武汉) - [Github](https://github.com/David-XIa001)
+* :white_check_mark: [未寄 · Unsent](https://env-00jy5xxt7kdo-static.normal.cloudstatic.cn)：基于地理坐标的时空信箱与情绪树洞，把未曾寄出的话留在真实物理位置上；支持五维情绪呼吸微光、时空信封倒计时封存、纸飞机善意回音与自带经纬度印章的拍立得海报导出，完全开源免费 - [源码](https://github.com/David-XIa001/unsent)
+
+#### 知海图书馆团队
+* :white_check_mark: [知海图书馆](https://www.zhihailib.com)：干净的中文电子书站，可按书名、作者、出版社、ISBN 精确找书，能在线读，没有弹窗广告
+
+#### Nanshanelectrician - [Github](https://github.com/Nanshanelectrician)
+* :white_check_mark: [ExamParser](https://examparser.com)：把 Word、PDF 或 Google 文档一键转成 Canvas 可直接导入的题库，免登录、文件用完即删，老师再也不用手动一道道录题
+
 #### DuskXi - [Github](https://github.com/DuskXi)
 * :white_check_mark: [SpaceKnife](https://spaceknife.kaltsit.dev/zh/)：硬盘空间分析工具，用实时树图一眼看出磁盘被什么占满，支持 NTFS 快速扫描、快照对比和限制扫描时的磁盘负载，免费开源，支持 Windows 和 Linux - [GitHub](https://github.com/DuskXi/SpaceKnife)
 
@@ -5462,46 +5480,6 @@
 
 #### 简具科技(杭州)
 * :x: [八爪鱼收纳](https://www.bzysn.top)：智能物品管理小程序，帮助您轻松管理家中各类物品，让生活更加井然有序
-
-### 2024 年 12 月 24 号添加
-#### KIAN
-* :white_check_mark: [XShorts](https://xshorts.pro/)：一键将优质 Tweet 转换为数字人短视频。定制化声音、AI背景图片，自动化发布。轻松创作内容优质的短视频
-
-#### Indie Maker Fox - [Github](https://github/javayhu) [Twitter](https://x.com/indie_maker_fox) [Blog](https://mksaas.me)
-* :white_check_mark: [Free Open Graph Generator](https://og.indiehub.best/)：Open Graph图片制作工具，支持多种布局，支持调整文字+背景，支持导出PNG，免费无水印
-
-### 2024 年 12 月 23 号添加
-#### 前端小周(郑州) - [github](https://github.com/webjuzi), [博客](https://www.inav.site/)
-* :white_check_mark: [短剧大王](https://www.inav.site/v)：短剧爱好者的免费观影神器，带你畅享短剧盛宴！本应用完全免费！即可尽情观看海量短剧。如寻觅无果？别担心！只需轻松留言告知您心仪的短剧名称，我们会尽快为您找到资源 - [API 免费开放](https://www.inav.site/mp#/pageC/api/api)
-
-#### Corey Chiu - [GitHub](https://github.com/iamcorey), [博客](https://coreychiu.com)
-* :white_check_mark: [GitHub Cards](https://github.cards)：将你的 GitHub 数据转换成漂亮易分享的卡片图
-
-### 2024 年 12 月 22 号添加
-#### Indie Maker Fox - [Github](https://github/javayhu) [Twitter](https://x.com/indie_maker_fox) [Blog](https://mksaas.me)
-* :white_check_mark: [Mkdirs](https://mkdirs.com/)：最好的导航站模板，默认集成注册登录、支付、邮件、博客、导航站等所有功能
-* :white_check_mark: [IndieHub](https://indiehub.best/)：最好的独立开发者导航站，收录400+独立开发工具，支持开发者提交产品
-
-### 2024 年 12 月 17 号添加
-#### joyoyao(上海) - [Github](https://github.com/joyoyao)
-* :white_check_mark: [帽子云](https://www.maoziyun.com/)：GitHub Pages / Cloudflare Pages 的国产替代方案，集成化的静态网站快速创建平台 - [更多介绍](https://www.maoziyun.com/docs/introduction)
-
-### 2024 年 12 月 14 号添加
-#### Leo (上海)
-* :white_check_mark: [BlueSky 工具目录站点](https://bskyinfo.com)：目前最完整的 BlueSky 工具收录站点
-
-### 2024 年 12 月 12 号添加
-
-### 2024 年 12 月 11 号添加
-#### Aining（合肥）
-* :white_check_mark: [UnblurImage AI](https://unblurimage.ai/zh)：图片无损放大变清晰网站（免费无广）
-
-#### Terry(上海) - [Github](https://github.com/jamieme)
-* :white_check_mark: [PodExtra AI](https://www.podextra.ai/)：播客内容摘要生成器（有文字稿和思维导图） - [更多介绍](https://www.podextra.ai/)
-
-### 2024 年 12 月 10 号添加
-#### cuiheng511 - [Github](https://github.com/cuiheng511)
-* :white_check_mark: [Autoppt](https://autoppt.com)：AI 演示文稿生成工具，彻底改变了您创建演示文稿的方式。凭借丰富的模板和强大的功能，让您轻松在几分钟内制作出令人惊叹的演示文稿
 
 ## 👉 更早的项目（2018 年 ~ 2024 年）在[这里单独一册](./.github/pages/README-Earlier-Projects.md)
 
