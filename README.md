@@ -26,6 +26,18 @@
 
 ### 2026 年 10 月 28 号添加
 
+#### guetyitudabian - [Github](https://github.com/guetyitudabian)
+* :white_check_mark: [JoJo Characters](https://jojocharacters.com/)：独立的《JOJO的奇妙冒险》人物百科，按部数和作品浏览人物、已有配图与替身资料，支持姓名和别名搜索，附来源及剧情防剧透
+
+#### Koroo - [Github](https://github.com/CClishan)
+* :white_check_mark: [ZoopFizz](https://zoopfizz.com/)：选模板或写提示词，上传照片或输入文字，在同一积分工作区用 Seedance / Veo / Wan 等模型生成 TikTok/Reels 短视频；草稿免费，新验证账号送 100 积分（30 天），月付从 $29.99 起 - [模型与积分](https://zoopfizz.com/models.md)
+
+#### Nolan - [Github](https://github.com/NolanSoloBuilder)
+* :white_check_mark: [铝构AI BeamJoin](https://forgepane.com)：在线铝型材设计工具，用自然语言辅助搭建和修改桌架、工作台、置物架等三维方案，并整理型材切割长度、材料与加工清单，支持 PDF、Excel 导出
+
+#### yt1988 - [Github](https://github.com/yt1988)
+* :white_check_mark: [Me2Cloud](https://m2c.1ms.dog)：云服务器延迟测试工具，打开网页就能测你家网络到 AWS、阿里云等 17 家云厂商 361 个区域的延迟、抖动和丢包，买服务器前先挑最快的区域，免费开源无需注册
+
 #### wujieli - [Github](https://github.com/wujieli0207)
 * :white_check_mark: [Make Dime Dime Baby](https://makedimedimebaby.com)：一张照片生成约 10 秒 9:16 Dime Dime Baby 派对舞蹈短视频，浏览器直接用、不带水印（独立工具，非官方）；新账号 1 条免费，之后 1 条 $9.99、3 条 $24.99
 
@@ -5283,33 +5295,6 @@
 
 #### Christine(上海) - [Github](https://github.com/liuyinjiwen06)
 * :white_check_mark: [Addsubtitle](https://addsubtitle.ai/)：视频一键翻译编辑加字幕，超高效视频处理，精准翻译，还原情感；语音克隆与自然配音；自动字幕生成，高效省时；即时在线编辑
-
-### 2025 年 5 月 9 号添加
-#### samzong(上海):
-* :white_check_mark: [TabBoost（Chrome 扩展）](https://chromewebstore.google.com/detail/tabboost/pnpabkdhbbjmahfnhnfhpgfmhkkeoloe)： 提高浏览器标签效率，灵感来自 Arc 浏览器和开发者的实际体验 - [更多介绍](https://github.com/samzong/chrome-tabboost)
-
-#### jzhone(佛山) 
-* :white_check_mark: [Best Bra Size Calculator](https://bestbrasizecalculator.com)：根据体态计算用户适合穿戴什么文胸以及相关保养提示
-
-#### Alex Li(苏州) 
-* :white_check_mark: [信风 AI 外贸获客智能体](https://www.trade-wind.co)：每周 AI 全网实时搜索获取高质量线索，自动化拓展终端客户/经销商/合作伙伴，快速布局海外市场 - [更多介绍](https://www.trade-wind.co/compare)
-
-#### underwoodxie - [Github](https://github.com/underwoodxie)
-* :white_check_mark: [Free AI Beauty Test](https://aibeautytest.org/): AI 颜值测试，提供给你个性化的建议
-
-### 2025 年 5 月 7 号添加
-#### jerrybi(深圳) - [Github](https://github.com/jerrybi)
-* :white_check_mark: [AI Doll Generator](https://ai-doll-generator.net)：使用 AI 技术将人像转成玩具盒子风格！
-
-#### Caron77 - [Github](https://github.com/Caron77ai)
-* :white_check_mark: [4oimg.org](https://4oimg.org)：基于 OpenAI 最新图像技术的创作平台，支持多风格生成和精确文本渲染的 AI 绘图工具
-
-### 2025 年 5 月 6 号添加
-#### yiquan00 - [GitHub](https://github.com/yiquan00)
-* :white_check_mark: [Notion style illustration](https://illustration.imglab.dev)：专注于 Notion 风格插画生成网站，一句话提示词就能生成 Notion 风格插画/Flat style illustration 
-
-#### Bobo Cao(合肥) - [Github](https://github.com/bo0-bo0), [博客](https://indiepa.ge/bo0bo0)
-* :white_check_mark: [Labubu Wallpaper](https://labubuwallpaper.com/)：下载 4K Labubu 壁纸，针对 iPhone, 笔记本和移动设备优化
 
 ## 👉 2018 ~ 2025 年收录的项目在[这里单独一册](./.github/pages/README-Earlier-Projects.md)
 
