@@ -24,6 +24,11 @@
 
 ## 3. 项目列表
 
+### 2026 年 11 月 11 号添加
+
+#### Opie Studio(多伦多) - [网站](https://vvid.tv/home)
+* :white_check_mark: [vvid](https://vvid.tv/home)：给特斯拉车机浏览器用的网页应用，手机上把 YouTube、B站、抖音链接加进媒体库，车机浏览器打开同一账号就能播，无需安装 App
+
 ### 2026 年 11 月 10 号添加
 
 #### FlyDesk 飞桌开发团队（成都） - [Github](https://github.com/lyingjack)
