@@ -24,7 +24,21 @@
 
 ## 3. 项目列表
 
+### 2026 年 11 月 15 号添加
+
+#### Quanneng BI - [GitHub](https://github.com/biquanneng)
+* :white_check_mark: [GSC Vault](https://gscvault.app/zh)：给网站站长的 Chrome 扩展，打开即用：批量对照 Search Console 官方数据，列出 Sitemap 里哪些页面没被 Google 收录以及原因，并把 GSC 数据自动备份到自己的 Google Drive，不怕超过 16 个月被删除。3 个站点以内免费
+
+#### jiangweiqi001
+* :white_check_mark: [运动营养健康指南](https://jiangweiqi001.github.io/sports-nutrition-health/search.html)：给普通成年人的中文问答网站，免费、免登录，可直接搜索 465 条关于跑步、力量训练、营养和训练健康的问题。回答优先参考权威指南、专业学会的立场声明和系统综述，每条都标注证据等级并附参考出处 - [项目介绍](https://github.com/jiangweiqi001/sports-nutrition-health)
+
+#### tusunsun - [GitHub](https://github.com/tusunsun)
+* :white_check_mark: [iching.tools](https://iching.tools/zh-CN)：在线易经占卜，水墨风界面里点屏幕逐爻掷铜钱起卦，附 64 卦与 384 爻原文解读，可免费 AI 解卦，支持简繁英日韩等 10 种语言
+
 ### 2026 年 11 月 14 号添加
+
+#### Nathan - [GitHub](https://github.com/siuserxiaowei)
+* :white_check_mark: [giffgaff 保号提醒工具](https://getgiffgaff.com/tools/keep-number-reminder/)：境外卡保号日历提醒工具，输入上次使用日期在浏览器本地计算第 5 个月缓冲期并导出 .ics 日历文件，防范跨国号码因逾期未用被注销；纯本地计算不收集号码，免费免注册 - [开源仓库](https://github.com/siuserxiaowei/keep-number-reminder)
 
 #### Lorraine（新加坡） - [Github](https://github.com/LorraineLiuNUS)
 * :white_check_mark: [灵犀 Lyncis](https://lyncis.app)：国学版 MBTI，输入生日，测出你在《周易》64 卦里的本命卦、身份名和本命神，还能拉朋友合一卦，看你们是什么组合；不算命、不断吉凶，每一句都有古籍出处，支持中英文，网页直接用
