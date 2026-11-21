@@ -26,6 +26,13 @@
 
 ### 2026 年 11 月 21 号添加
 
+#### ixiehao - [Github](https://github.com/ixiehao)
+* :white_check_mark: [Any2WebP](https://ixiehao.github.io/Any2WebP/zh/)：本地图片转换工具，把图片批量转为 WebP 或 GIF，也能把多张图片或短视频片段制成动图并逐帧对比；免费、MIT 开源 - [源码与下载](https://github.com/ixiehao/Any2WebP)
+* :white_check_mark: [ezNTFS](https://ixiehao.github.io/ezNTFS/zh/)：Mac 外接 NTFS 磁盘读写工具，支持按磁盘自动挂载、安全推出和 SHA-256 复制校验；免费开源，需 macFUSE - [源码与安装要求](https://github.com/ixiehao/ezNTFS)
+
+#### Linky - [Github](https://github.com/Linky-AIinlink)
+* :white_check_mark: [Site Templates Hub](https://sitetemplateshub.com/)：免费 Google Sites 网站模板库，挑一个复制到自己的 Google Drive，替换文字和照片即可发布；无需写代码，托管免费，可绑定自定义域名
+
 #### Jianyu Chen - [Github](https://github.com/CJianYu)
 * :white_check_mark: [Photo to 3D Model](https://phototo3dmodel.org/)：拍一张物品照片，在浏览器里生成可旋转查看、可下载的 3D 模型（GLB），登录可免费生成一次无纹理模型，带纹理版本按积分付费
 * :white_check_mark: [StmtPilot](https://stmtpilot.com/zh)：将 PDF 银行对账单转为 CSV 或 Excel，保留每笔交易的来源页，方便会计在导出前核对金额和标记行
@@ -4931,25 +4938,6 @@
 * :white_check_mark: [Image Inverter](https://imageinverter.app/) ： 图片颜色反转工具，可将黑色转为白色、创建照片负片效果,无需注册即可在浏览器中即时处理
 * :x: [Circle Crop Image](https://circle-crop-image.net/)：圆形裁剪工具，可快速制作完美的圆形头像和社交媒体图片,支持透明背景导出
 * :white_check_mark: [Grayscale Image](https://grayscaleimage.org/)：图片灰度转换工具，可将彩色照片转为黑白灰度图像,适合制作复古效果和减小文件大小
-
-### 2025 年 10 月 16 号添加
-#### lanmo(武汉) - [Github](https://github.com/oddboy0152-create)
-* :white_check_mark: [Veo 3.1 AI](https://veo3-1.co/zh)：使用 Veo3.1 创作电影级视频，配备 1080p 原生音频、首尾帧控制及免费试用额度
-
-### 2025 年 10 月 15 号添加
-#### oddboy(杭州) - [Github](https://github.com/liuShuZhu), [博客](http://www.oddboy.top)
-* :white_check_mark: [Sora2 AI](https://sora2-ai.net/)：体验 Sora 2 视频生成 – 创建 1080p 无水印视频，配备同步音频
-
-### 2025 年 10 月 14 号添加
-#### xiaobin(北京) - [Github](https://github.com/pangxiaobin)
-* :white_check_mark: [灵象工具箱](https://www.lingxiangtools.top/)：AI 智能图像处理工具，视频抠图换背景、视频去水印、AI抠图、智能擦除、截图美化、OCR文字识别、在线拼图、视频智能镜头分割、图片压缩、图片格式转换，几乎所有功能都支持批量操作，不限制文件数量和大小（支持 win 和 mac 平台，所有处理都是本地模式保证用户隐私） - [更多介绍](https://www.lingxiangtools.top/#features)
-
-### 2025 年 10 月 12 号添加
-#### ShawnHacks(北京) - [Github](https://github.com/ShawnHacks), [博客](https://indietion.com/)
-* :white_check_mark: [Bulk Resize Images Online](https://bulkresizeimages.online/)：批量调整多张图片的大小。快速、安全，完全在浏览器中运行——无需上传 - [更多介绍](https://bulkresizeimages.online/zh/about)
-
-#### sing1ee(上海) - [Github](https://github.com/sing1ee)
-* :x: [Sora Video Downloader](https://soravideodownloader.com/)：从共享链接下载 Sora AI 生成的视频。获取原始提示和高质量视频文件
 
 ## 👉 2018 ~ 2025 年收录的项目在[这里单独一册](./.github/pages/README-Earlier-Projects.md)
 
