@@ -24,7 +24,21 @@
 
 ## 3. 项目列表
 
+### 2026 年 11 月 24 号添加
+
+#### Daniel Gross - [Github](https://github.com/obcl3w)
+* :white_check_mark: [HSKWin](https://hskwin.com/)：HSK 3.0 模拟考试网站，按真实考试计时并提供即时评分、每题解析、AI 写作批改和 HSKK 口语评分
+
+#### Sheldon23357 - [Github](https://github.com/Sheldon23357)
+* :white_check_mark: [OpenFMV](https://github.com/Sheldon23357/OpenFMV/releases/tag/v0.1.2)：中文互动影游编辑器，导入视频后可以连出可选择的剧情、安排事件和条件，导出独立 Windows 或网页游戏；Windows 11 x64 便携预览版，无需注册，MIT 开源 - [更多介绍](https://github.com/Sheldon23357/OpenFMV)
+
 ### 2026 年 11 月 23 号添加
+
+#### 叶世民(温州) - [Github](https://github.com/yeshimin), [博客](https://blog.yeshimin.com/)
+* :white_check_mark: [赛博小生灵](https://37lg9exexq3fzopftr0.traesite.cn/)：「电子放生」微信小程序，在地图上划定的开放区域里放归一只小生灵，它会在那里自在游动漂移，心情值随之积累
+
+#### 苏维 - [Github](https://github.com/dsfsdsfs2007)
+* :white_check_mark: [回声口袋](https://huishengkoudai.cn/)：中文音视频转文字工具，把会议、采访和课程录音自动整理成带时间轴、可区分说话人的文字稿，支持导出和分享，提供网站和小程序
 
 #### hypercube67 - [Github](https://github.com/hypercube67-formal)
 * :white_check_mark: [MakeMidas](https://makemidas.com)：AI 生图、生视频和音乐工具，一个页面、一份积分就能用 GPT Image、Nano Banana、Veo、Kling、Seedance、Suno 等主流模型，生成前先显示要扣的积分，失败自动退回，新账号验证邮箱送 50 积分
@@ -56,9 +70,6 @@
 
 #### LW - [GitHub](https://github.com/lwxyfer)
 * :white_check_mark: [JustSVG](https://justsvg.vercel.app/)：开源的网页图表编辑器，从空白画布、示例或已有 SVG 起步，修改架构图、流程图和信息图的文字、图形与位置，再导出可继续编辑的 SVG；无需注册 - [源码](https://github.com/lwxyfer/justsvg)
-
-#### Q.Jin - [GitHub](https://github.com/qijin-3)
-* :white_check_mark: [DemoReady](https://demoready.bitwonder.app/)：在浏览器里录产品演示视频，直接输入 localhost 或线上网页链接就能开录，先选视频比例、手机平板电脑的 Mockup 和背景（含莫奈、葛饰北斋画作），实时预览后录制下载，不用装软件、不用再剪辑
 
 ### 2026 年 11 月 22 号添加
 
@@ -3153,7 +3164,7 @@
 * :white_check_mark: [BulkPicTools](https://bulkpictools.com)：免费浏览器端图片批量处理工具，支持**工具链串联**（压缩→转格式→裁剪一次完成，无需重复上传），本地 AI 去背景/人脸模糊（WebGPU，无需 API Key），支持 200+ 张图片批量处理，文件不上传服务器。
 
 #### 馒头饭 - [Github](https://github.com/mantoufan)
-* :white_check_mark: [cv.cm](https://cv.cm)：浏览器本地 PDF、图片和二维码工具，文件不上传；另有阅后即焚云剪切板 - [GitHub 仓库](https://github.com/mantoufan/cvcm)
+* :white_check_mark: [cv.cm](https://cv.cm)：浏览器本地 PDF、图片和二维码工具，文件不上传；另有阅后即焚云剪切板
 
 ### 2026 年 6 月 4 号添加
 
