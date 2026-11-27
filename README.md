@@ -24,6 +24,24 @@
 
 ## 3. 项目列表
 
+### 2026 年 11 月 27 号添加
+
+#### Jimmer Code - [GitHub](https://github.com/jimmer-code)
+* :white_check_mark: [今日世界](https://world.acity.me/)：免费免登录的全球要闻与金融市场看板，用可交互 3D 地球串联当天全球大事与航运咽喉，并聚合 A 股/美股分时、北京时间宏观日程与美联储点阵图
+
+#### Ken - [GitHub](https://github.com/ken80207)
+* :white_check_mark: [Deerly – Baby Tracker & Log](https://apps.apple.com/cn/app/id6802015210)：婴儿成长记录 App，单手一键或用语音记下喂奶、睡眠、换尿布等 30+ 种记录，伴侣和长辈实时同步同一个宝宝，还有桌面小组件和 Apple Watch 哺乳计时；记录、统计、WHO 成长曲线与家人共享免费，免费版有广告，Pro 订阅去广告并开放家人共享照片视频（界面为英文和繁体中文） - [更多介绍](https://ken80207.github.io/deerly-support/)
+* :white_check_mark: [PriceDog](https://apps.apple.com/tw/app/id6757205395)：UNIQLO / GU 降价追踪 App，输入吊牌 6 位数编号或扫条码就能追踪，特价开始、创历史新低时推送提醒并附价格走势图，在日本店内扫吊牌可看台湾价差；免费使用，Premium 订阅去广告（仅台湾区） - [更多介绍](https://ken80207.github.io/pricedog-support/)
+
+#### Tomsabay - [GitHub](https://github.com/Tomsabay)
+* :white_check_mark: [StyleFuse](https://stylefuse.top)：上传自己的 Word/纯文本草稿和目标期刊范文，5 阶段 AI 协作按句流式改写并实时显示 Canvas 红绿 Diff，支持划词微调与直接导出排版好的 Word 文档。打开网页即可使用，注册每周免费体验 3 次
+
+#### WaterJason - [GitHub](https://github.com/WaterJason), [个人网站](https://chaowei.site)
+* :white_check_mark: [CreoArt Poster Studio](https://poster.creoart.app/zh)：免费免登录、纯浏览器本地 0 上传的 300 DPI 打印排版工具箱。内置 2027 丁未羊年 A4 农历日历生成器（紫金山/香港天文台 CST 核验每日农历与 24 节气、国务院国办发明电〔2026〕10 号 7 大放假与 5 个补班日、照片月历、365 天习惯打卡表与 12 页无水印打包 PDF），以及身份证正反面 1:1 实寸 A4 合拼（ISO 7810 + 防盗用水印）、永久静态 Wi-Fi/收款二维码桌牌、大图多页拼接、手写体笔记与寻字练习纸等 8 款打印刚需工具
+
+#### begineri - [GitHub](https://github.com/begineri)
+* :white_check_mark: [观画壁纸 Paintpane](https://begineri.github.io/Paintpane/zh/)：Windows 托盘壁纸软件，把大都会艺术博物馆、芝加哥艺术博物馆、台北故宫博物院等十家博物馆开放馆藏里的名画设成桌面和锁屏壁纸，定时换一幅，有完整显示、博物馆画框、智能裁切三种显示方式；免费、不收集数据，Microsoft Store 或单文件 exe - [GitHub](https://github.com/begineri/Paintpane)
+
 ### 2026 年 11 月 26 号添加
 
 #### JimmyYanDev - [GitHub](https://github.com/JimmyYanDev)
@@ -3265,6 +3283,7 @@
 
 #### 馒头饭 - [Github](https://github.com/mantoufan)
 * :white_check_mark: [cv.cm](https://cv.cm)：浏览器本地 PDF、图片和二维码工具，文件不上传；另有阅后即焚云剪切板
+* :white_check_mark: [cv.cm 免费测试](https://cv.cm/zh-cn/tests/)：125 个免费测试，有 MBTI、大五人格、骨架诊断、肤质测试、DND 阵营、哈利波特魔杖和动漫角色测试，9 种语言，答案只在浏览器里计分，不上传、不用注册
 
 ### 2026 年 6 月 4 号添加
 
@@ -4806,28 +4825,6 @@
  
 #### mingforpc(珠海) 
 * :x: [PaperPrint](http://paperprint.officedocprint.com/)：打印纸模版网站（免费），支持多种打印纸模版并且支持在线调整、预览、导出图片和PDF
-
-### 2025 年 12 月 2 号添加
-#### Selenium39(广州) - [Github](https://github.com/Selenium39)
-* :white_check_mark: [E-ink](https://e-ink.me/zh)：网页转电子书工具的平台（免费），支持将网页快速转换为多种电子书格式并在线阅读与编辑
-
-#### 星舟(深圳) - [Github](https://github.com/lzzzzl)
-* :white_check_mark: [ShowMeBestAI](https://showmebest.ai/)：最全面的 AI 工具目录，包含 3632+ 个 AI 工具。为您的业务、创意和生产力需求找到完美的 AI 工具
-* :white_check_mark: [DeepSong AI](https://deepsong.ai/)：AI 生成音乐和歌曲，原创且免版税
-
-### 2025 年 11 月 29 号添加
-#### lianhr12(深圳) - [Github](https://github.com/lianhr12)
-* :x: [AppIconGenerator](https://appicongenerator.org/)：浏览器端 AI 驱动的应用图标生成器，隐私优先，支持 iOS/Android/Chrome Store 资源一键生成 - [更多介绍](https://appicongenerator.org/)
-
-#### pekingzcc(北京) - [Github](https://github.com/zhangchenchen)
-* :white_check_mark: [sora2 api](https://www.sora2api.org/)： Sora2Api 通过统一 API 实现无水印的 Sora2视频生成, 低至 $0.1/ video
-
-#### Chaowen(深圳) - [Github](https://github.com/tanchaowen84)
-* :x: [VeriIA | Detector de ia](https://detectordeia.pro)：面向西语世界的 AI 检测和抄袭检测工具，支持西班牙语和英语文本的 AI 使用率评估与句子级高亮标注，帮助在「使用 AI」与「保持原创与透明」之间找到平衡。
-
-#### cg33(广州) - [Github](https://github.com/chenhg5)
-* :white_check_mark: [Modern Mermaid](https://modern-mermaid.live)：mermaid 代码编辑生成器（现代好看，拥有多种主题模板），帮你做更好看的文档
-* :x: [Trendhub](https://trendhub.wowwwow.cn/)：热点新闻过滤推送器，自定义过滤您的每天热点新闻，让你免受非重要热点新闻的干扰 - [Github](https://github.com/gotoailab/trendhub)
 
 ## 👉 2018 ~ 2025 年收录的项目在[这里单独一册](./.github/pages/README-Earlier-Projects.md)
 
